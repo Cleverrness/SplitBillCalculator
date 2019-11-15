@@ -1,7 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/* Code for Class Lab 11/14/19
+ * Student: Jose Soto
+ * CISC 3115
+ * Brooklyn College, Fall 2019
  */
 package splitbillcalculator;
 
